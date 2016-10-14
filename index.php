@@ -16,6 +16,9 @@ and open the template in the editor.
         <title>Euro Sweepstake</title>
     </head>
     <body>
+        
+        
+        
         <?php
             include 'engine.php';
             

@@ -6,6 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
+        
         <meta charset="UTF-8">
         <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
         <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" />
